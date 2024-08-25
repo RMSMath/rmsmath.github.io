@@ -5,16 +5,16 @@ subtitle: Keep up to date with our latest news and content.
 use-site-title: true
 ---
 
-## Welcome to the 2023-2024 season!
+## Welcome to the 2024-2025 season!
 
 More information about this year's math club will be available after parent night in early October. Please subscribe to the
 [RMS PTSA Bear Tracks newsletter](http://tinyurl.com/GetBearTracks) to be among the first to know.
 
 1. New to math club? Check out our [welcome video](https://www.youtube.com/watch?v=HP58Q_IAsq8).
 
-2. Parent night is October 4 at 6PM at RMS.
+2. Parent night is October 4 at 6PM at RMS (Tentative).
 
-3. **(Required)** Register for the [2023-2024 math club](http://rmsptsa.org/Packet/MathClubReg).
+3. **(Required)** Register for the [2024-2025 math club](http://rmsptsa.org/Packet/MathClubReg).
 
 4. Your parent and student emails will be added as guests to the RMS PTSA Math Club group so you can access 
 the PTSA Office 365 portal. The first round of accounts and kickoff email will be sent in early October.
