@@ -10,7 +10,8 @@ subtitle: Our competition calendar
 | November 12, 2024 | [AMC 10B](/amc) | RMS Library, 2:30-4:15 (Tentative) | [Signup sheet](https://rmsptsa.sharepoint.com/:x:/r/sites/mathclub/_layouts/15/Doc.aspx?sourcedoc=%7B6A365444-F8CA-4087-9D13-2A268FEEA9B1%7D&file=Competitions%20&%20Teams.xlsx=&action=default&mobileredirect=true) | November 3, 2024
 | December, 2024 | [KPMT](https://newportmathclub.com/kpmt.html) | Newport High School | [Signup sheet](https://rmsptsa.sharepoint.com/:x:/r/sites/mathclub/_layouts/15/Doc.aspx?sourcedoc=%7B6A365444-F8CA-4087-9D13-2A268FEEA9B1%7D&file=Competitions%20&%20Teams.xlsx=&action=default&mobileredirect=true) | TBD
 | January 22-28, 2025  | [AMC 8](/amc) | TBD | [Signup sheet](https://rmsptsa.sharepoint.com/:x:/r/sites/mathclub/_layouts/15/Doc.aspx?sourcedoc=%7B6A365444-F8CA-4087-9D13-2A268FEEA9B1%7D&file=Competitions%20&%20Teams.xlsx=&action=default&mobileredirect=true) | January 12, 2025
-| February 8, 2025  | [Math Is Cool](https://academicsarecool.com/#/home) | Liberty High School | [Signup sheet](https://rmsptsa.sharepoint.com/:x:/r/sites/mathclub/_layouts/15/Doc.aspx?sourcedoc=%7B6A365444-F8CA-4087-9D13-2A268FEEA9B1%7D&file=Competitions%20&%20Teams.xlsx=&action=default&mobileredirect=true) | January 4, 2025
+| February 8, 2025  | [Math Is Cool Regoinals](https://academicsarecool.com/#/home) | Liberty High School | [Signup sheet](https://rmsptsa.sharepoint.com/:x:/r/sites/mathclub/_layouts/15/Doc.aspx?sourcedoc=%7B6A365444-F8CA-4087-9D13-2A268FEEA9B1%7D&file=Competitions%20&%20Teams.xlsx=&action=default&mobileredirect=true) | January 4, 2025
+| February, 2025  | Mathcounts Chapter | TBD | By Invitation | By Invitation
 
 
 All competitions are **optional**.
