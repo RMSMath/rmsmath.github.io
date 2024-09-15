@@ -12,12 +12,12 @@ More information about this year's math club will be available after parent nigh
 
 1. New to math club? Check out our [welcome video](https://www.youtube.com/watch?v=HP58Q_IAsq8).
 
-2. Parent night is October 4 at 6PM at RMS (Tentative).
+2. Math Club is actively working with the school for classroom reservations. The club schedule will be based on classroom availability. We will send out notifications via ParentSquare when the schedule is finalized.
 
 3. **(Required)** Register for the [2024-2025 math club](http://rmsptsa.org/Packet/MathClubReg).
 
 4. Your parent and student emails will be added as guests to the RMS PTSA Math Club group so you can access 
-the PTSA Office 365 portal. The first round of accounts and kickoff email will be sent in early October.
+the PTSA Office 365 portal. The first round of accounts and kickoff email will be sent in late September, 2024.
 
 5. Become an <a href="https://www.lwsd.org/get-involved/volunteering-in-lwsd" target="_blank">LWSD approved volunteer</a>.
 
