@@ -15,7 +15,7 @@ _Cancelled_ sessions are in _italics_. If a session is cancelled via email, then
 
 Sessions in (parentheses) are competitions. There won't be normal sessions on competition days. Only attend if you are [registered for that competition](/competitions).
 
-**Coaching Location: RMS Commons**
+**Coaching Location: RMS Portable 3**
 
 | Week Of	| Fundamentals (Mon 3:30-4:30)		| Competition Training (Wed 1:30-2:30)  | Variety (Fri 4:30-5:30)   |
 | ------- | ------------------------------- | ------------------------------------- | ------------------------- |
