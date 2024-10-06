@@ -18,9 +18,9 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 **Coaching Location: RMS Portable 3**
 
 
-| Week Of	| Fundamentals (Mon 3:30-4:30)		| Competition Training (Wed 1:30-2:30)  | Variety (Fri 4:30-5:30)   |
-| ------- | ------------------------------- | ------------------------------------- | ------------------------- |
-| 07 Oct	| Factorials			                |            | |
+| Week Of	| Fundamentals (Mon 3:30-4:30)		| Competition Training (Wed 1:30-2:30)  |
+| ------- | ------------------------------- | ------------------------------------- |
+| 07 Oct	| Factorials			                | [2023 AMC 10A](https://wiki.artofproblemsolving.com/wiki/index.php/2023_AMC_10A) |
 
 
 [2023-2024 schedule](/schedule-2324.md)
