@@ -21,7 +21,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | Week Of	| Fundamentals (Mon 3:30-4:30)		| Competition Training (Wed 1:30-2:30)  |
 | ------- | ------------------------------- | ------------------------------------- |
 | 07 Oct  | Factorials			                | [2023 AMC 10A](https://wiki.artofproblemsolving.com/wiki/index.php/2023_AMC_10A) |
-| 14 Oct  | Triangles                 | [2023 AMC 8](https://artofproblemsolving.com/wiki/index.php/2023_AMC_8) |
+| 14 Oct  | Right Triangles                 | [2023 AMC 8](https://artofproblemsolving.com/wiki/index.php/2023_AMC_8) |
 | 21 Oct  | Probability                     | [2022 AMC 8](https://artofproblemsolving.com/wiki/index.php/2022_AMC_8) |
 | 28 Oct  | Fractions                       | [2023 AMC 10B](https://artofproblemsolving.com/wiki/index.php/2023_AMC_10B) and Pre-AMC 10 QAs |
 | 4 Nov   | Area                            | (AMC 10A) |
