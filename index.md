@@ -21,8 +21,6 @@ the PTSA Office 365 portal. The kickoff email has be sent on Friday 10/4, 2024.
 
 5. Opt in to [competitions](/competitions).
 
-6. Join Math Club WhatsApp group (https://chat.whatsapp.com/CMJHdvkLG0i10DtixAA3uy).
-
 ## Top links
 
 - [Coaching session homework and schedule](/schedule) (sessions onsite at RMS this year)
