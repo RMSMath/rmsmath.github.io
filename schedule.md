@@ -28,16 +28,16 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 11 Nov  | _No School_                     | _Cancelled, AMC Recovery_ |
 | 18 Nov  | Patterns                        | [2024 AMC 10A](https://artofproblemsolving.com/wiki/index.php/2024_AMC_10A?srsltid=AfmBOorA6dTf_tnh2sRGGN1ZZqyM2Zds4G8LsRclZfpKpIGQb7IwtNoM) |
 | 25 Nov  | Work                            | _Half Day_ |
-| 2 Dec   | Similarity                      | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 6 Only |
-| 9 Dec   | Circles                         | [2023 KPMT](https://drive.google.com/drive/folders/1mRZYUWEykptemhxoioE55X0wkDs0mvcd) |
+| 2 Dec   | Similarity                      | [2023 KPMT](https://drive.google.com/drive/folders/1mRZYUWEykptemhxoioE55X0wkDs0mvcd) |
+| 9 Dec   | Circles                         | [2324 Mathcounts School](https://rmsmath.sharplogic.com/files/RMS%202324M%20Exam.pdf) |
 | 16 Dec  | Logic                           | [2324 Mathcounts School](https://rmsmath.sharplogic.com/files/RMS%202324M%20Exam.pdf) |
 | 23 Dec  | _No School_                     | _No School_ |
 | 30 Dec  | _No School_                     | _No School_ |
 | 6 Jan   | Systems of Equations            | [2020 AMC 8](https://artofproblemsolving.com/wiki/index.php/2020_AMC_8) |
 | 13 Jan  | (Mathcounts School Round A, Tentative)     | (Mathcounts School Round B, Tentative) |
 | 20 Jan  | _No School_                     | (AMC 8, Tentative) |
-| 27 Jan  | Mixture                         | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 7 Only |
-| 3 Feb   | Bases                           | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 8 Only |
+| 27 Jan  | Mixture                         | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 6 Only |
+| 3 Feb   | Bases                           | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 7 Only |
 | 10 Feb  | Expected Value                  | 2025 AMC 8 |
 | 17 Feb  | _No School_                     | 2025 AMC 8 |
 | 24 Feb  | Surface Area & Volume           |  |
