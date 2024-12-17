@@ -30,7 +30,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 25 Nov  | Work                            | _Half Day_ |
 | 2 Dec   | Similarity                      | [2023 KPMT](https://drive.google.com/drive/folders/1mRZYUWEykptemhxoioE55X0wkDs0mvcd) |
 | 9 Dec   | Circles                         | [2324 Mathcounts School](https://rmsmath.sharplogic.com/files/RMS%202324M%20Exam.pdf) |
-| 16 Dec  | Logic                           | [2324 Mathcounts School](https://rmsmath.sharplogic.com/files/RMS%202324M%20Exam.pdf) |
+| 16 Dec  | Logic                           | _Cancelled_ |
 | 23 Dec  | _No School_                     | _No School_ |
 | 30 Dec  | _No School_                     | _No School_ |
 | 6 Jan   | Systems of Equations            | [2020 AMC 8](https://artofproblemsolving.com/wiki/index.php/2020_AMC_8) |
