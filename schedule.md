@@ -33,7 +33,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 16 Dec  | Logic                           | _Cancelled_ |
 | 23 Dec  | _No School_                     | _No School_ |
 | 30 Dec  | _No School_                     | _No School_ |
-| 6 Jan   | Systems of Equations            | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 8 Only |
+| 6 Jan   | Systems of Equations            | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 8 Only (1-2pm) |
 | 13 Jan  | (Mathcounts School Round A, Tentative)     | (Mathcounts School Round B, Tentative) |
 | 20 Jan  | _No School_                     | (AMC 8, Tentative) |
 | 27 Jan  | Mixture                         | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 6 Only |
