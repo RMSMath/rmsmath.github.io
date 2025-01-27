@@ -36,8 +36,8 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 6 Jan   | Systems of Equations            | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 8 Only (1-2pm) |
 | 13 Jan  | (Mathcounts School Round A, Tentative)     | (Mathcounts School Round B, Tentative) |
 | 20 Jan  | _No School_                     | (AMC 8, Tentative) |
-| 27 Jan  | Mixture                         | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 6 Only |
-| 3 Feb   | Bases                           | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 7 Only |
+| 27 Jan  | Mixture                         | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 6 Practice |
+| 3 Feb   | Bases                           | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 7/8 Practice |
 | 10 Feb  | Expected Value                  | 2025 AMC 8 |
 | 17 Feb  | _No School_                     | 2025 AMC 8 |
 | 24 Feb  | Surface Area & Volume           |  |
