@@ -37,10 +37,11 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 13 Jan  | (Mathcounts School Round A, Tentative)     | (Mathcounts School Round B, Tentative) |
 | 20 Jan  | _No School_                     | (AMC 8, Tentative) |
 | 27 Jan  | Mixture                         | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 6 Practice |
-| 3 Feb   | Bases                           | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 7/8 Practice |
-| 10 Feb  | Expected Value                  | 2025 AMC 8 |
+| 3 Feb   | _Cancelled, No Proctor_ | [Math Is Cool](https://academicsarecool.com/#/samples) Grade 7/8 Practice |
+| 10 Feb  | Bases                           | 2025 AMC 8 |
 | 17 Feb  | _No School_                     | 2025 AMC 8 |
-| 24 Feb  | Surface Area & Volume           |  |
+| 24 Feb  | Expected Value                  |  |
+| 3 Mar   | Surface Area & Volume           |  |
 
 
 [2023-2024 schedule](/schedule-2324.md)
