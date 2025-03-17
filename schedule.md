@@ -44,6 +44,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 3 Mar   | Surface Area & Volume           | Mathcounts Varsity Practice By Invitation Only |
 | 10 Mar   | Measurement                    | Mathcounts Varsity Practice By Invitation Only |
 | 17 Mar   | Clocks                         | Mathcounts Varsity Practice By Invitation Only |
+| End Of Sessions |
 
 
 [2023-2024 schedule](/schedule-2324.md)
