@@ -16,34 +16,34 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 **Coaching Location: RMS Portable 3**
 
 
-| Week Of | Fundamentals (Mon 2:30-4:30)	| Mini Competitions (Wed 1:00-2:30)     |
+| Week Of | Fundamentals (Mon 2:30-4:30)	| School Competitions (Wed 1:00-2:30)     |
 | ------- | ------------------------------- | ------------------------------------- |
-| 29 Sep  | Clocks                          |  |
-| 6 Oct   | Measurement                     |  |
-| 13 Oct  | Surface Area & Volume           |  |
-| 20 Oct  | Expected Value                  |  |
-| 27 Oct  | Bases                           |  |
+| 29 Sep  | Clocks                          | _Cancelled_ |
+| 6 Oct   | Measurement                     | School Competition |
+| 13 Oct  | Surface Area & Volume           | _Cancelled_ |
+| 20 Oct  | Expected Value                  | School Competition |
+| 27 Oct  | Bases                           | _Cancelled_ |
 | 3 Nov   | Mixture                         | (AMC 10A) |
-| 10 Nov  | Systems of Equations            | _Cancelled, AMC10B on Thursday_ |
-| 17 Nov  | Logic                           |  |
+| 10 Nov  | Systems of Equations            | _Cancelled, AMC 10B on Thursday_ |
+| 17 Nov  | Logic                           | School Competition |
 | 24 Nov  | Circles                         | _Half Day_ |
-| 1 Dec   | Similarity                      |  |
-| 8 Dec   | Work                            |  |
-| 15 Dec  | Patterns                        |  |
+| 1 Dec   | Similarity                      | School Competition |
+| 8 Dec   | Work                            | _Cancelled_ |
+| 15 Dec  | Patterns                        | School Competition |
 | 22 Dec  | _No School_                     | _No School_ |
 | 29 Dec  | _No School_                     | _No School_ |
-| 5 Jan   | Area                            |  |
+| 5 Jan   | Area                            | _Cancelled_ |
 | 12 Jan  | (Mathcounts School A, Tentative)  | (Mathcounts School B, Tentative) |
-| 19 Jan  | _No School_          |  |
+| 19 Jan  | _No School_                     | _Cancelled_ |
 | 26 Jan  | Probability                     | (AMC 8) |
-| 2 Feb   | Right Triangles                 |  |
-| 9 Feb   | Factorials                      |  |
-| 16 Feb  | _No School_          |  |
-| 23 Feb  | Fractions                       |  |
-| 2 Mar   | Counting                        |  |
-| 9 Mar   | Modular Arithmetic              |  |
-| 16 Mar  | Travel                          |  |
-| 23 Mar  | Ratios                          |  |
+| 2 Feb   | Right Triangles                 | _Cancelled_ |
+| 9 Feb   | Factorials                      | School Competition |
+| 16 Feb  | _No School_                     | _Cancelled_ |
+| 23 Feb  | Fractions                       | School Competition |
+| 2 Mar   | Counting                        | _Cancelled_ |
+| 9 Mar   | Modular Arithmetic              | School Competition |
+| 16 Mar  | Travel                          | _Cancelled_ |
+| 23 Mar  | Ratios                          | School Competition |
 | End Of Sessions |
 
 
