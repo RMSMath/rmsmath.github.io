@@ -17,7 +17,8 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 
 
 | Week Of | Fundamentals (Mon 2:30-4:30)	| School Competitions (Wed 1:00-2:30)     |
-| ------- | ------------------------------- | ------------------------------------- |
+| ------- | ------------------------------- | -------------------------------------   |
+| 22 Sep  | Similarity                      | School Competition |
 | 29 Sep  | Clocks                          | _Cancelled_ |
 | 6 Oct   | Measurement                     | School Competition |
 | 13 Oct  | Surface Area & Volume           | _Cancelled_ |
@@ -27,7 +28,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 10 Nov  | Systems of Equations            | _Cancelled, AMC 10B on Thursday_ |
 | 17 Nov  | Logic                           | School Competition |
 | 24 Nov  | Circles                         | _Half Day_ |
-| 1 Dec   | Similarity                      | School Competition |
+| 1 Dec   | Solving Inequalities            | School Competition |
 | 8 Dec   | Work                            | _Cancelled_ |
 | 15 Dec  | Patterns                        | School Competition |
 | 22 Dec  | _No School_                     | _No School_ |
