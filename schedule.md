@@ -47,6 +47,8 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | End Of Sessions |
 
 
+[2024-2025 schedule](/schedule-2425.md)
+
 [2023-2024 schedule](/schedule-2324.md)
 
 [2022-2023 schedule](/schedule-2223.md)
