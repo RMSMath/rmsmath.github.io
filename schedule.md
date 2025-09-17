@@ -27,7 +27,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 3 Nov   | Mixture (P1)                    | (AMC 10A) |
 | 10 Nov  | Systems of Equations (P5)       | _Cancelled, AMC 10B on Thursday_ |
 | 17 Nov  | Logic (P22)                     | School Competition |
-| 24 Nov  | Circles (P48)                        | _Half Day_ |
+| 24 Nov  | Circles (P48)                   | _Half Day_ |
 | 1 Dec   | Solving Inequalities (P24)      | School Competition |
 | 8 Dec   | Work (P14)                      | _Cancelled_ |
 | 15 Dec  | Patterns (P37)                  | School Competition |
@@ -38,7 +38,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 19 Jan  | _No School_                     | _Cancelled_ |
 | 26 Jan  | Probability (P36)               | (AMC 8) |
 | 2 Feb   | Right Triangles (P8)            | _Cancelled_ |
-| 9 Feb   | Factorials (P50)                     | School Competition |
+| 9 Feb   | Factorials (P50)                | School Competition |
 | 16 Feb  | _No School_                     | _Cancelled_ |
 | 23 Feb  | Fractions (P12)                 | School Competition |
 | 2 Mar   | Counting (P27)                  | _Cancelled_ |
