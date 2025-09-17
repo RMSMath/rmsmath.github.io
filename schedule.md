@@ -18,33 +18,33 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 
 | Week Of | Fundamentals (Mon 2:30-4:30)	| School Competitions (Wed 1:00-2:30)     |
 | ------- | ------------------------------- | -------------------------------------   |
-| 22 Sep  | Similarity                      | School Competition |
-| 29 Sep  | Clocks                          | _Cancelled_ |
-| 6 Oct   | Measurement                     | School Competition |
-| 13 Oct  | Surface Area & Volume           | _Cancelled_ |
-| 20 Oct  | Expected Value                  | School Competition |
-| 27 Oct  | Bases                           | _Cancelled_ |
-| 3 Nov   | Mixture                         | (AMC 10A) |
-| 10 Nov  | Systems of Equations            | _Cancelled, AMC 10B on Thursday_ |
-| 17 Nov  | Logic                           | School Competition |
-| 24 Nov  | Circles                         | _Half Day_ |
-| 1 Dec   | Solving Inequalities            | School Competition |
-| 8 Dec   | Work                            | _Cancelled_ |
-| 15 Dec  | Patterns                        | School Competition |
+| 22 Sep  | Similarity (P10)                | School Competition |
+| 29 Sep  | Clocks (P46)                    | _Cancelled_ |
+| 6 Oct   | Measurement (P39)               | School Competition |
+| 13 Oct  | Surface Area & Volume (P17)     | _Cancelled_ |
+| 20 Oct  | Expected Value (40)             | School Competition |
+| 27 Oct  | Bases (P35)                     | _Cancelled_ |
+| 3 Nov   | Mixture (P1)                    | (AMC 10A) |
+| 10 Nov  | Systems of Equations (P5)       | _Cancelled, AMC 10B on Thursday_ |
+| 17 Nov  | Logic (P22)                     | School Competition |
+| 24 Nov  | Circles (P48)                        | _Half Day_ |
+| 1 Dec   | Solving Inequalities (P24)      | School Competition |
+| 8 Dec   | Work (P14)                      | _Cancelled_ |
+| 15 Dec  | Patterns (P37)                  | School Competition |
 | 22 Dec  | _No School_                     | _No School_ |
 | 29 Dec  | _No School_                     | _No School_ |
-| 5 Jan   | Area                            | _Cancelled_ |
+| 5 Jan   | Area (P28)                      | _Cancelled_ |
 | 12 Jan  | (Mathcounts School A, Tentative)  | (Mathcounts School B, Tentative) |
 | 19 Jan  | _No School_                     | _Cancelled_ |
-| 26 Jan  | Probability                     | (AMC 8) |
-| 2 Feb   | Right Triangles                 | _Cancelled_ |
-| 9 Feb   | Factorials                      | School Competition |
+| 26 Jan  | Probability (P36)               | (AMC 8) |
+| 2 Feb   | Right Triangles (P8)            | _Cancelled_ |
+| 9 Feb   | Factorials (P50)                     | School Competition |
 | 16 Feb  | _No School_                     | _Cancelled_ |
-| 23 Feb  | Fractions                       | School Competition |
-| 2 Mar   | Counting                        | _Cancelled_ |
-| 9 Mar   | Modular Arithmetic              | School Competition |
-| 16 Mar  | Travel                          | _Cancelled_ |
-| 23 Mar  | Ratios                          | School Competition |
+| 23 Feb  | Fractions (P12)                 | School Competition |
+| 2 Mar   | Counting (P27)                  | _Cancelled_ |
+| 9 Mar   | Modular Arithmetic (P30)        | School Competition |
+| 16 Mar  | Travel (P38)                    | _Cancelled_ |
+| 23 Mar  | Ratios (P43)                    | School Competition |
 | End Of Sessions |
 
 
