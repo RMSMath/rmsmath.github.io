@@ -10,9 +10,7 @@ use-site-title: true
 More information about this year's math club will be available after parent night in September. Please subscribe to the
 [RMS PTSA Bear Tracks newsletter](http://tinyurl.com/GetBearTracks) to be among the first to know.
 
-Parent Info Night will be on Wednesday 9/24 7 -8 PM. Please join the meeting using Teams link https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTZmMGU4NmItOTA1My00NDY0LWFjNzMtNjRjZjA4YzYxMWNk%40thread.v2/0?context=%7b%22Tid%22%3a%22f2d61132-f6d6-42d2-b97f-caa2960fb0f7%22%2c%22Oid%22%3a%223b8970ea-cdf8-428d-804c-cb24cf390562%22%7d 
-
-or using:   
+Parent Info Night will be on Wednesday 9/24 7 -8 PM. Please join the meeting using [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTZmMGU4NmItOTA1My00NDY0LWFjNzMtNjRjZjA4YzYxMWNk%40thread.v2/0?context=%7b%22Tid%22%3a%22f2d61132-f6d6-42d2-b97f-caa2960fb0f7%22%2c%22Oid%22%3a%223b8970ea-cdf8-428d-804c-cb24cf390562%22%7d), or using:   
 Meeting ID: 247 873 794 461 3    
 Passcode: 36PQ3tF7
 
