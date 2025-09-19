@@ -18,7 +18,6 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 
 | Week Of | Fundamentals (Mon 2:30-4:30)	| School Competitions (Wed 1:00-2:30)     |
 | ------- | ------------------------------- | -------------------------------------   |
-| 22 Sep  | Similarity (P10)                | School Competition |
 | 29 Sep  | Clocks (P46)                    | _Cancelled_ |
 | 6 Oct   | Measurement (P39)               | School Competition |
 | 13 Oct  | Surface Area & Volume (P17)     | _Cancelled_ |
