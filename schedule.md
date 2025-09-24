@@ -18,14 +18,14 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
  **Wednesdays: Portable 4**
 
 
-| Week Of | Fundamentals (Mon 2:30-4:30 Library)	| School Competitions (Wed 1:00-2:30 Portable 4)     |
+| Week Of | Fundamentals (Mon 3:00-4:30 Library)	| School Competitions (Wed 1:00-2:30 Portable 4)     |
 | ------- | ------------------------------- | -------------------------------------   |
 | 29 Sep  | Clocks (P46)                    | _Cancelled_ |
 | 6 Oct   | Measurement (P39)               | School Competition |
 | 13 Oct  | Surface Area & Volume (P17)     | _Cancelled_ |
 | 20 Oct  | Expected Value (P40)            | School Competition |
 | 27 Oct  | Bases (P35)                     | _Cancelled_ |
-| 3 Nov   | Mixture (P1)                    | (AMC 10A) |
+| 3 Nov   | Venn Diagrams (P44)             | (AMC 10A) |
 | 10 Nov  | Systems of Equations (P5)       | _Cancelled, AMC 10B on Thursday_ |
 | 17 Nov  | Logic (P22)                     | School Competition |
 | 24 Nov  | Circles (P48)                   | _Half Day_ |
@@ -37,14 +37,14 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 5 Jan   | Area (P28)                      | _Cancelled_ |
 | 12 Jan  | (Mathcounts School A, Tentative)  | (Mathcounts School B, Tentative) |
 | 19 Jan  | _No School_                     | _Cancelled_ |
-| 26 Jan  | Probability (P36)               | (AMC 8) |
+| 26 Jan  | Functions (P12)                 | (AMC 8) |
 | 2 Feb   | Right Triangles (P8)            | _Cancelled_ |
-| 9 Feb   | Factorials (P50)                | School Competition |
+| 9 Feb   | Sequences (P9)                  | School Competition |
 | 16 Feb  | _No School_                     | _Cancelled_ |
-| 23 Feb  | Fractions (P12)                 | School Competition |
+| 23 Feb  | Fractions (P32)                 | School Competition |
 | 2 Mar   | Counting (P27)                  | _Cancelled_ |
 | 9 Mar   | Modular Arithmetic (P30)        | School Competition |
-| 16 Mar  | Travel (P38)                    | _Cancelled_ |
+| 16 Mar  | Arithmetic Mean (P47)           | _Cancelled_ |
 | 23 Mar  | Ratios (P43)                    | School Competition |
 | End Of Sessions |
 
