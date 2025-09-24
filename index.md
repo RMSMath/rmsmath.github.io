@@ -22,6 +22,8 @@ Passcode: 36PQ3tF7
 
 4. Opt in to [competitions](/competitions).
 
+5. Register for proctoring. Math Club cannot run without parent proctors. [Proctor Signup Link](https://www.signupgenius.com/go/10C0F49AAAE22A5F4CF8-58863232-rmsmath#/) (Must be [LWSD Approved Volunteers](https://www.lwsd.org/get-involved/volunteering-in-lwsd))
+
 ## Top links
 
 - [Coaching session homework and schedule](/schedule) (sessions onsite at RMS this year)
