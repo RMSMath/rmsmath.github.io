@@ -16,7 +16,7 @@ Passcode: 36PQ3tF7
 
 1. New to math club? Check out our [welcome video](https://www.youtube.com/watch?v=HP58Q_IAsq8).
 
-2. **(Required, will open around 9/24 2025)** Register for the [2025-2026 math club](http://rmsptsa.org/Packet/MathClubReg).
+2. **(Required, opened on 9/24/2025)** Register for the [2025-2026 math club](https://rmsptsa.org/Packet/MathClubReg/FamilyInfoSignedInPacketPage/0).
 
 3. Your parent and student emails will be added as guests to the RMS PTSA Math Club group so you can access the PTSA Office 365 portal. The kickoff email will be sent in September, 2025.
 
