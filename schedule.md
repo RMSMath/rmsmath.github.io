@@ -23,8 +23,8 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 29 Sep  | Clocks (P46)                    | _Cancelled_ |
 | 6 Oct   | Measurement (P39)               | School Competition |
 | 13 Oct  | Surface Area & Volume (P17)     | _Cancelled_ |
-| 20 Oct  | Expected Value (P40)            | School Competition |
-| 27 Oct  | Bases (P35)                     | _Cancelled_ |
+| 20 Oct  | Expected Value (P40)            | School Competition (8th Grade Only) |
+| 27 Oct  | Bases (P35)                     | School Competition (6th & 7th Grade Only) |
 | 3 Nov   | Venn Diagrams (P44)             | (AMC 10A) |
 | 10 Nov  | Systems of Equations (P5)       | _Cancelled, AMC 10B on Thursday_ |
 | 17 Nov  | Logic (P22)                     | School Competition |
