@@ -31,7 +31,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 24 Nov  | Circles (P48)                   | _Half Day_ |
 | 1 Dec   | Solving Inequalities (P24)      | School Competition |
 | 8 Dec   | Work (P14)                      | _Cancelled_ |
-| 15 Dec  | Patterns (P37)                  | School Competition |
+| 15 Dec  | Patterns (P37)                  | _Cancelled, No Room_ |
 | 22 Dec  | _No School_                     | _No School_ |
 | 29 Dec  | _No School_                     | _No School_ |
 | 5 Jan   | Area (P28)                      | _Cancelled_ |
