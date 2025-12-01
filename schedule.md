@@ -29,7 +29,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 10 Nov  | Systems of Equations (P5)       | _Cancelled, AMC 10B on Thursday_ |
 | 17 Nov  | Logic (P22)                     | School Competition |
 | 24 Nov  | Circles (P48)                   | _Half Day_ |
-| 1 Dec   | _Cancelled_                     | School Competition |
+| 1 Dec   | _Cancelled, No Proctor_         | School Competition |
 | 8 Dec   | Work (P14)                      | _Cancelled_ |
 | 15 Dec  | Patterns (P37)                  | _Cancelled, No Room_ |
 | 22 Dec  | _No School_                     | _No School_ |
