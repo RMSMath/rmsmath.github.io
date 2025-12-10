@@ -30,7 +30,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 17 Nov  | Logic (P22)                     | School Competition |
 | 24 Nov  | Circles (P48)                   | _Half Day_ |
 | 1 Dec   | _Cancelled, No Proctor_         | School Competition |
-| 8 Dec   | Work (P14)                      | _Cancelled_ |
+| 8 Dec   | Work (P14)                      | School Competition (6th Grade Only) |
 | 15 Dec  | Patterns (P37)                  | _Cancelled, No Room_ |
 | 22 Dec  | _No School_                     | _No School_ |
 | 29 Dec  | _No School_                     | _No School_ |
