@@ -35,7 +35,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 22 Dec  | _No School_                     | _No School_ |
 | 29 Dec  | _No School_                     | _No School_ |
 | 5 Jan   | Area (P28)                      | _Cancelled_ |
-| 12 Jan  | (Mathcounts School A, Tentative)  | (Mathcounts School B, Tentative) |
+| 12 Jan  | (Mathcounts School A)           | (Mathcounts School B) |
 | 19 Jan  | _No School_                     | _Cancelled_ |
 | 26 Jan  | Functions (P12)                 | (AMC 8) |
 | 2 Feb   | Right Triangles (P8)            | _Cancelled_ |
