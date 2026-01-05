@@ -34,7 +34,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 15 Dec  | Patterns (P37)                  | School Competition (All Grades, Library) |
 | 22 Dec  | _No School_                     | _No School_ |
 | 29 Dec  | _No School_                     | _No School_ |
-| 5 Jan   | _Cancelled, No Proctor          | _Cancelled_ |
+| 5 Jan   | _Cancelled, No Proctor_          | _Cancelled_ |
 | 12 Jan  | (Mathcounts School A)           | (Mathcounts School B) |
 | 19 Jan  | _No School_                     | _Cancelled_ |
 | 26 Jan  | Functions (P12)                 | (AMC 8) |
