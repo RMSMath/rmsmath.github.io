@@ -37,7 +37,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 5 Jan   | _Cancelled, No Proctor_          | _Cancelled_ |
 | 12 Jan  | (Mathcounts School A)           | (Mathcounts School B) |
 | 19 Jan  | _No School_                     | _Cancelled_ |
-| 26 Jan  | Functions (P12)                 | (AMC 8) |
+| 26 Jan  | (AMC 8)                         | _Cancelled_ |
 | 2 Feb   | Right Triangles (P8)            | _Cancelled_ |
 | 9 Feb   | Sequences (P9)                  | School Competition |
 | 16 Feb  | _No School_                     | _Cancelled_ |
