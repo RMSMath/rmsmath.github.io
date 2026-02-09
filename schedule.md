@@ -39,7 +39,7 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 19 Jan  | _No School_                     | _Cancelled_ |
 | 26 Jan  | (AMC 8)                         | _Cancelled_ |
 | 2 Feb   | Right Triangles (P8)            | _Cancelled_ |
-| 9 Feb   | Sequences (P9)                  | School Competition |
+| 9 Feb   | _Cancelled_                     | School Competition |
 | 16 Feb  | _No School_                     | _Cancelled_ |
 | 23 Feb  | Fractions (P32)                 | School Competition |
 | 2 Mar   | Counting (P27)                  | _Cancelled_ |
