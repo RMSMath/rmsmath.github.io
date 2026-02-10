@@ -39,9 +39,9 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 | 19 Jan  | _No School_                     | _Cancelled_ |
 | 26 Jan  | (AMC 8)                         | _Cancelled_ |
 | 2 Feb   | Right Triangles (P8)            | _Cancelled_ |
-| 9 Feb   | _Cancelled_                     | School Competition |
-| 16 Feb  | _No School_                     | _Cancelled_ |
-| 23 Feb  | Fractions (P32)                 | School Competition |
+| 9 Feb   | _Cancelled_                     | (Mathcounts Team Training) |
+| 16 Feb  | _No School_                     | (Mathcounts Team Training) |
+| 23 Feb  | Fractions (P32)                 | (Mathcounts Team Training) |
 | 2 Mar   | Counting (P27)                  | _Cancelled_ |
 | 9 Mar   | Modular Arithmetic (P30)        | School Competition |
 | 16 Mar  | Arithmetic Mean (P47)           | _Cancelled_ |
