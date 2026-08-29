@@ -11,7 +11,7 @@ use-site-title: true
 
 2. Parent Info Night will be in week 9/7 or 9/14. We will send out notifications in Parent Square when details are finalized.
 
-3. **(Required)** Register for the [2025-2026 math club](https://rmsptsa.org/Packet/MathClubReg/FamilyInfoSignedInPacketPage/0).
+3. **(Required)** Register for the [2026-2027 math club](https://rmsptsa.org/Packet/MathClubReg/FamilyInfoSignedInPacketPage/0).
 
 4. 2026-2027 [Important competitions](/competitions)
 
