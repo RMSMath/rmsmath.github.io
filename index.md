@@ -5,15 +5,15 @@ subtitle: Keep up to date with our latest news and content.
 use-site-title: true
 ---
 
-## Welcome to the 2025-2026 season! We are open!
+## Welcome to the 2026-2027 season! We are open for registration!
 
-1. New to math club? Check out [2025-2026 Parent Info Night Slides](/files/2025_Parent_Night.pptx)
+1. Math Club is looking for co-chairs. We have only 1 parent running Math Club and will need another 2-3 parents. Please reach out to mathclubchair@rmsptsa.org if you would like to be part of the club.
 
-2. **(Required)** Register for the [2025-2026 math club](https://rmsptsa.org/Packet/MathClubReg/FamilyInfoSignedInPacketPage/0).
+2. Parent Info Night will be in week 9/7 or 9/14. We will send out notifications in Parent Square when details are finalized.
 
-3. Opt in to [competitions](/competitions).
+3. **(Required)** Register for the [2025-2026 math club](https://rmsptsa.org/Packet/MathClubReg/FamilyInfoSignedInPacketPage/0).
 
-4. [Sign up](https://www.signupgenius.com/go/10C0F49AAAE22A5F4CF8-58863232-rmsmath#/) for proctoring. Math Club cannot run without parent proctors. (Must be [LWSD Approved Volunteers](https://www.lwsd.org/get-involved/volunteering-in-lwsd))
+4. 2026-2027 [Important competitions](/competitions)
 
 ## Top links
 
