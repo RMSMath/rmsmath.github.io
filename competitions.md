@@ -7,7 +7,7 @@ subtitle: Our competition calendar
 | Date              | Competition		| Time & Location | Registration | Registration Deadline
 | -----------       | --------            | --- | ----- | --- |
 | September 17, 2026 | AMC8 After-School Class Placement Test | 2:40 - 3:40, RMS Commons | [Registration Link](https://forms.cloud.microsoft/r/JxB3xYdZF5) | Noon, September 16, 2026
-| September, 2026  | Club Team Qualification Test  | RMS | TBD | NA
+| September 18, 2026  | Club Team Qualification Test  | 2:40 - 3:40, RMS Commons | [Registration Link](https://forms.cloud.microsoft/r/2JJd7BLw09) | Noon, September 17, 2026
 | November 5, 2026  | [AMC 10A](/amc) | RMS | TBD | October 31, 2026
 | November 13, 2026 | [AMC 10B](/amc) | RMS | TBD | November 8, 2026
 | December, 2025 | [KPMT](https://newportmathclub.com/kpmt.html) | Newport High School | TBD | TBD
