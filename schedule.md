@@ -4,10 +4,11 @@ title: Session Schedule
 subtitle: Our coaching session schedule
 ---
 
-Monday Homework Packet can be downloaded [here](/files/Homework%20Packet.pdf). The 10-question assignment for each Fundamentals session comes from this packet. For example, when the _Factorials_ stretch is being covered, you only need to complete the 10-question section under the _Factorials_ header in the packet. It is expected that all members will attempt to complete the assignment 
-for the week. It will be covered completely in the session.
+This year, the RMS PTSA Math Club is partnering with Think Academy to offer a weekly after-school math training class.
 
-The Mathcounts Toolkit can be downloaded [here](/files/Mathcounts%20Toolkit.pdf).
+The class is designed for students who are ready for AMC 8-level math and would like to further develop their problem-solving skills and prepare for the AMC 8 and other competitions at a similar level.
+
+A placement test will be used to select approximately 20 students whose current math skills and competition readiness are a good fit for the program. Please find the registration link [here](/competitions).
 
 _Cancelled_ sessions are in _italics_. If a session is cancelled via email, then that takes precedence over this schedule.
 
@@ -20,32 +21,6 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 
 | Week Of | Fundamentals (Mon 3:00-4:30 Library)	| Competitions (Wed 1:00-2:30 Portable 4)     |
 | ------- | ------------------------------- | -------------------------------------   |
-| 28 Sep  | Clocks (P46)                    | Club Team Training |
-| 5 Oct   | Measurement (P39)               |  |
-| 12 Oct  | Surface Area & Volume (P17)     |  |
-| 19 Oct  | Expected Value (P40)            |  |
-| 26 Oct  | Bases (P35)                     | Club Team Training |
-| 2 Nov   | Venn Diagrams (P44)             |  |
-| 9 Nov  | Systems of Equations (P5)        |  |
-| 16 Nov  | Logic (P22)                     |  |
-| 23 Nov  | Circles (P48)                   | Club Team Training |
-| 30 Nov   | _Cancelled, No Proctor_        |  |
-| 7 Dec   | Work (P14)                      | Club Team Training |
-| 14 Dec  | Patterns (P37)                  |  |
-| 21 Dec  | _No School_                     | _No School_ |
-| 28 Dec  | _No School_                     | _No School_ |
-| 4 Jan   | _Cancelled, No Proctor_         |  |
-| 11 Jan  | (Mathcounts School A)           |  |
-| 18 Jan  | _No School_                     |  |
-| 25 Jan  | (AMC 8)                         | Club Team Training |
-| 1 Feb   | Right Triangles (P8)            |  |
-| 8 Feb   | _Cancelled_                     |  |
-| 15 Feb  | _No School_                     |  |
-| 22 Feb  | Fractions (P32)                 | (Mathcounts Team Training) |
-| 1 Mar   | Counting (P27)                  |  |
-| 8 Mar   | Modular Arithmetic (P30)        |  |
-| 15 Mar  | Arithmetic Mean (P47)           |  |
-| 22 Mar  | Ratios (P43)                    | School Competition |
 | End Of Sessions |
 
 
