@@ -28,10 +28,11 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
  **Wednesdays: Portable 4**
 
 
-| Week Of | Fundamentals (Mon 3:00-4:30 Library)	| Competitions (Wed 1:00-2:30 Portable 4)     |
+| Week Of | Fundamentals	| Competitions     |
 | ------- | ------------------------------- | -------------------------------------   |
 | End Of Sessions |
 
+[2025-2026 schedule](/schedule-2526.md)
 
 [2024-2025 schedule](/schedule-2425.md)
 
@@ -40,7 +41,3 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
 [2022-2023 schedule](/schedule-2223.md)
 
 [2021-2022 schedule](/schedule-2122.md)
-
-[2020-2021 schedule](/schedule-2021.md)
-
-[2019-2020 schedule](/schedule-1920.md)
