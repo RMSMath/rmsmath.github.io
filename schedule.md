@@ -13,11 +13,11 @@ This year, the RMS PTSA Math Club will discontinue Monday training sessions. Mea
 
    Class fees apply. We are sorry we won't be able to provide scholarship for this class.
 
-2. Our experienced high school coach will lead a select team of approximately 10 students in preparation for regional and national math competitions.
+2. Our experienced high school coach will lead a selected team of approximately 10 students in preparation for regional and national math competitions.
 
    This program is intended for students who are highly motivated, passionate about competitive math, and committed to representing RMS in challenging competitions.
 
-   Students will be selected through a qualification test based on their problem-solving skills and competition readiness. Please find the registration link, registration deadline and test date here.
+   Students will be selected through a qualification test based on their problem-solving skills and competition readiness. Please find the registration link, registration deadline and test date  [here](/competitions).
 
 _Cancelled_ sessions are in _italics_. If a session is cancelled via email, then that takes precedence over this schedule.
 
