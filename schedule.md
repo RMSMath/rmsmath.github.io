@@ -11,7 +11,7 @@ This year, the RMS PTSA Math Club will discontinue Monday training sessions. Mea
    
    A placement test will be used to select approximately 20 students whose current math skills and competition readiness are a good fit for the program. Please find the registration link, registration deadline and test date [here](/competitions).
 
-   Class fees apply. We are sorry we won't be able to provide scholarship for this class.
+   **Class fees apply**. We are sorry we won't be able to provide scholarship for this class.
 
 2. Our experienced high school coach will lead a selected team of approximately 10 students in preparation for regional and national math competitions.
 
