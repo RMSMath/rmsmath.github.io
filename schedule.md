@@ -18,34 +18,34 @@ Sessions in (parentheses) are competitions. There won't be normal sessions on co
  **Wednesdays: Portable 4**
 
 
-| Week Of | Fundamentals (Mon 3:00-4:30 Library)	| School Competitions (Wed 1:00-2:30 Portable 4)     |
+| Week Of | Fundamentals (Mon 3:00-4:30 Library)	| Competitions (Wed 1:00-2:30 Portable 4)     |
 | ------- | ------------------------------- | -------------------------------------   |
-| 29 Sep  | Clocks (P46)                    | _Cancelled_ |
-| 6 Oct   | Measurement (P39)               | School Competition |
-| 13 Oct  | Surface Area & Volume (P17)     | _Cancelled_ |
-| 20 Oct  | Expected Value (P40)            | School Competition (8th Grade Only) |
-| 27 Oct  | Bases (P35)                     | School Competition (6th & 7th Grade Only) |
-| 3 Nov   | Venn Diagrams (P44)             | (AMC 10A) |
-| 10 Nov  | Systems of Equations (P5)       | _Cancelled, AMC 10B on Thursday_ |
-| 17 Nov  | Logic (P22)                     | School Competition |
-| 24 Nov  | Circles (P48)                   | _Half Day_ |
-| 1 Dec   | _Cancelled, No Proctor_         | School Competition |
-| 8 Dec   | Work (P14)                      | School Competition (6th Grade Only) |
-| 15 Dec  | Patterns (P37)                  | School Competition (All Grades, Library) |
-| 22 Dec  | _No School_                     | _No School_ |
-| 29 Dec  | _No School_                     | _No School_ |
-| 5 Jan   | _Cancelled, No Proctor_          | _Cancelled_ |
-| 12 Jan  | (Mathcounts School A)           | (Mathcounts School B) |
-| 19 Jan  | _No School_                     | _Cancelled_ |
-| 26 Jan  | (AMC 8)                         | _Cancelled_ |
-| 2 Feb   | Right Triangles (P8)            | _Cancelled_ |
-| 9 Feb   | _Cancelled_                     | (Mathcounts Team Training) |
-| 16 Feb  | _No School_                     | (Mathcounts Team Training) |
-| 23 Feb  | Fractions (P32)                 | (Mathcounts Team Training) |
-| 2 Mar   | Counting (P27)                  | _Cancelled_ |
-| 9 Mar   | Modular Arithmetic (P30)        | School Competition |
-| 16 Mar  | Arithmetic Mean (P47)           | _Cancelled_ |
-| 23 Mar  | Ratios (P43)                    | School Competition |
+| 28 Sep  | Clocks (P46)                    | Club Team Training |
+| 5 Oct   | Measurement (P39)               |  |
+| 12 Oct  | Surface Area & Volume (P17)     |  |
+| 19 Oct  | Expected Value (P40)            |  |
+| 26 Oct  | Bases (P35)                     | Club Team Training |
+| 2 Nov   | Venn Diagrams (P44)             |  |
+| 9 Nov  | Systems of Equations (P5)        |  |
+| 16 Nov  | Logic (P22)                     |  |
+| 23 Nov  | Circles (P48)                   | Club Team Training |
+| 30 Nov   | _Cancelled, No Proctor_        |  |
+| 7 Dec   | Work (P14)                      | Club Team Training |
+| 14 Dec  | Patterns (P37)                  |  |
+| 21 Dec  | _No School_                     | _No School_ |
+| 28 Dec  | _No School_                     | _No School_ |
+| 4 Jan   | _Cancelled, No Proctor_         |  |
+| 11 Jan  | (Mathcounts School A)           |  |
+| 18 Jan  | _No School_                     |  |
+| 25 Jan  | (AMC 8)                         | Club Team Training |
+| 1 Feb   | Right Triangles (P8)            |  |
+| 8 Feb   | _Cancelled_                     |  |
+| 15 Feb  | _No School_                     |  |
+| 22 Feb  | Fractions (P32)                 | (Mathcounts Team Training) |
+| 1 Mar   | Counting (P27)                  |  |
+| 8 Mar   | Modular Arithmetic (P30)        |  |
+| 15 Mar  | Arithmetic Mean (P47)           |  |
+| 22 Mar  | Ratios (P43)                    | School Competition |
 | End Of Sessions |
 
 
