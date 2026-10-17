@@ -11,11 +11,9 @@ use-site-title: true
 
 2. 2026-09-14 [Parent Info Night slides](/files/2026_Parent_Night.pptx).
 
-3. Please join Math Club [WhatsApp communication group](https://chat.whatsapp.com/G3JQFxcQ0Jg1hkEXtz5n3Q).
+3. **(Required)** Register for the [2026-2027 math club](https://rmsptsa.org/Packet/MathClubReg/FamilyInfoSignedInPacketPage/0). Please consider joining _after_ Parent Info Night.
 
-4. **(Required)** Register for the [2026-2027 math club](https://rmsptsa.org/Packet/MathClubReg/FamilyInfoSignedInPacketPage/0). Please consider joining _after_ Parent Info Night.
-
-5. 2026-2027 [Important competitions](/competitions). Ple
+4. 2026-2027 [Important competitions](/competitions). Ple
 
 ## Top links
 
